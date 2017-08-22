@@ -1,0 +1,61 @@
+#mainimage
+{
+	 max-width: 100%;
+}
+h1
+{
+   color:white;
+
+		text-align: center;
+        margin-top:40px;
+		margin-bottom: 40px;
+}
+#Header
+{
+	background-color: black;
+	height: 100px;
+}
+
+h2
+{
+	 margin-top:30px !important;
+		margin-bottom: 30px !important;
+}
+
+    #nav1{
+		 margin-left: 30px;
+	  	 margin-right: 60px;
+			padding-top:10px;
+			padding-bottom:10px;
+      display: flex;
+      justify-content:space-between;
+      list-style-type: none;
+	  font-size: 20px;
+	 color:black;
+	
+     }
+#subMenu
+{
+	 border:2px solid;
+	 	background-color:white;
+		 border-color: gray;
+}
+.list-group-item
+{
+cursor: pointer;
+float:left;
+}
+
+div.iframe-link {
+
+float: left;
+
+margin: 0 1em 1em 0;
+}
+a.iframe-link {
+position: absolute;
+top: 0;
+right: 0;
+bottom: 0;
+left: 0;
+}
